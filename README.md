@@ -1,3 +1,9 @@
+
+### `Topics covered`: 
+  ## * Recursive components used to create SideBar navigation menu
+  ## * React router for making route paths inside app
+  ## * React Context API for sharing 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
