@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ReactRecursiveLayout/static/js/main.5fb24924.chunk.js",
+    "main.js.map": "/ReactRecursiveLayout/static/js/main.5fb24924.chunk.js.map",
+    "runtime-main.js": "/ReactRecursiveLayout/static/js/runtime-main.99ed0f4a.js",
+    "runtime-main.js.map": "/ReactRecursiveLayout/static/js/runtime-main.99ed0f4a.js.map",
+    "static/js/2.16e75186.chunk.js": "/ReactRecursiveLayout/static/js/2.16e75186.chunk.js",
+    "static/js/2.16e75186.chunk.js.map": "/ReactRecursiveLayout/static/js/2.16e75186.chunk.js.map",
+    "static/js/3.45947802.chunk.js": "/ReactRecursiveLayout/static/js/3.45947802.chunk.js",
+    "static/js/3.45947802.chunk.js.map": "/ReactRecursiveLayout/static/js/3.45947802.chunk.js.map",
+    "index.html": "/ReactRecursiveLayout/index.html",
+    "static/js/2.16e75186.chunk.js.LICENSE.txt": "/ReactRecursiveLayout/static/js/2.16e75186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99ed0f4a.js",
+    "static/js/2.16e75186.chunk.js",
+    "static/js/main.5fb24924.chunk.js"
+  ]
+}
